@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Courier App</string>    <!-- Add this line -->
+    <string name="courier_form_scroll_description">Courier registration form container</string>
+
+    <string-array name="status_options">
+        <item>Pending</item>
+        <item>In Transit</item>
+        <item>Delivered</item>
+        <item>Cancelled</item>
+    </string-array>
+</resources>
