@@ -26,13 +26,13 @@ A feature-rich Courier Service Android application developed in Kotlin, designed
     GPS Location Services	         Real-time tracking of delivery agents
     Push Notifications	           Timely user alerts and delivery updates
 
-### How to Run the App
+### How to Run the App:
 
 #### Clone the repository:
 
-git clone https://github.com/yourusername/courier-delivery-app.git
+1. git clone https://github.com/yourusername/courier-delivery-app.git
 
-cd courier-delivery-app
+2. cd courier-delivery-app
 
 #### Open in Android Studio
 
